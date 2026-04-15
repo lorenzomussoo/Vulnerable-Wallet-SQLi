@@ -1,4 +1,4 @@
-# Vulnerable Wallet - SQL Injection Lab 💳🔓
+# Vulnerable Wallet - SQL Injection Lab 💳🔓 
 
 This repository contains a deliberately vulnerable web application designed to demonstrate the mechanics and impact of **in-band SQL Injection (SQLi)** attacks. It serves as an educational laboratory for cybersecurity and penetration testing.
 
