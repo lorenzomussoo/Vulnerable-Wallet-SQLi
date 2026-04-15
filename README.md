@@ -38,7 +38,7 @@ The project meticulously documents how these vulnerabilities directly compromise
    cd SQL-Injection-Vulnerable-Wallet
 
 2. Build and start the containers using Docker Compose:
-```bash
+   ```bash
    docker-compose up -d --build
 
 3. Open your browser and navigate to http://localhost:8080 (or the port specified in your configuration) to access the login page.
